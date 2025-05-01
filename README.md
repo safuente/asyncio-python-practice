@@ -1,6 +1,6 @@
 # 🌀 Python Asyncio Examples
 
-This repository contains a series of **progressively complex examples** using Python's `asyncio` library. Each script is focused on a specific concept, with clear code and detailed comments in English.
+This repository contains a series of examples using Python's `asyncio` library. Each script is focused on a specific concept, with clear code and detailed comments in English.
 
 > ✅ Ideal for learning asynchronous programming in Python with examples.
 
