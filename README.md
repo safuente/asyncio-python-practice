@@ -19,6 +19,8 @@ This repository contains a series of examples using Python's `asyncio` library. 
 | 07 | `07_semaphore_limit.py`   | Limiting concurrency with `Semaphore`  |
 | 08 | `08_future_manual.py`     | Manual `Future` object usage           |
 | 09 | `09_task_vs_coroutine.py` | Difference between coroutine and task  |
+| 10 | `10_debug_coroutine_error.py` | How to debug errors inside a coroutine |
+
 
 ---
 
