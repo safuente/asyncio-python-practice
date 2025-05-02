@@ -21,6 +21,7 @@ This repository contains a series of examples using Python's `asyncio` library. 
 | 09 | `09_task_vs_coroutine.py` | Difference between coroutine and task  |
 | 10 | `10_debug_coroutine_error.py` | How to debug errors inside a coroutine |
 | 11 | `11_asyncio_event.py`        | Coordination between tasks using `asyncio.Event` |
+| 12 | `12_event_loop_manual.py`   | Manual event loop creation and control |
 
 
 ---
