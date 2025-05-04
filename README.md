@@ -24,6 +24,7 @@ This repository contains a series of examples using Python's `asyncio` library. 
 | 12 | `12_event_loop_manual.py`   | Manual event loop creation and control |
 | 13 | `13_asyncio_subprocess.py`  | Run and await system subprocess using asyncio |
 | 14 | `14_asyncio_periodic_timer.py` | Periodic task execution using asyncio loops |
+| 15 | `15_asyncio_wait_first.py`     | Wait for the first task to finish with `asyncio.wait` |
 
 
 ---
